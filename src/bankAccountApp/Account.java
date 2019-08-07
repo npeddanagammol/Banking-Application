@@ -71,6 +71,7 @@ public abstract class Account implements InterestBaseRate {
 				"\n RATE " + rate + "%"
 				);
 		System.out.println("_________________________________________________________________");
+		System.out.println("Bank application updated from github");
 		
 	}
 	
