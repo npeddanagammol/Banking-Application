@@ -70,6 +70,7 @@ public abstract class Account implements InterestBaseRate {
 				"\n BALANCE " + balance +
 				"\n RATE " + rate + "%"
 				);
+		System.out.println("_________________________________________________________________");
 		
 	}
 	
